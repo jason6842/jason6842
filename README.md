@@ -8,7 +8,10 @@ I'm Jason Ma!
 
 🔧 Technologies & Tools
 
-Programming Languages:![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Programming Languages: ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/java-red?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+
 
 
 

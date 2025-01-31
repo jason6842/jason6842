@@ -8,7 +8,8 @@ I'm Jason Ma!
 
 🔧 Technologies & Tools
 
-Programming Languages:https://img.shields.io/badge/:badgeContent
+Programming Languages:<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
 
 
 Frameworks/Libraries
